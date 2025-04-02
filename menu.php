@@ -66,7 +66,7 @@
           if (isset($_SESSION["Nivel"]) && $_SESSION["Nivel"] !== "base") {
           ?>
             <li class="nav-item">
-              <a class="nav-link" href="#">Cadastrar Perfil</a>
+              <a class="nav-link" href="perfil-novo.php">Cadastrar Perfil</a>
             </li>
           <?php
 
